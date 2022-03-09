@@ -14,4 +14,4 @@ Nice to meet you
 
 # 컴퓨터 구조
 * [객체지향의 사실과 오해](naver.com)
-*[개발자가 반드시 정복](naver.com)
+* [개발자가 반드시 정복](naver.com)
